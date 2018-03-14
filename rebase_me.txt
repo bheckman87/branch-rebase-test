@@ -1,1 +1,1 @@
-this is branch 1 after rebasing
+This is branch 1 with an edit after rebasing
